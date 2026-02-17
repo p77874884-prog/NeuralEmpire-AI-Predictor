@@ -1,4 +1,4 @@
-kimport customtkinter as ctk
+import customtkinter as ctkk
 from playwright.sync_api import sync_playwright
 import threading, time, asyncio, os
 from telegram import Bot
